@@ -1,0 +1,9 @@
+{
+  "name": "dorianscale-ai-policy",
+  "version": "2.0.0",
+  "description": "Loads the Dorian Scale AI data privacy, security & access policy into every Claude Code session.",
+  "author": {
+    "name": "Dorian Scale",
+    "email": "ravi.b@dorianscale.com"
+  }
+}
